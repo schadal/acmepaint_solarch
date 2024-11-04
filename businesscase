@@ -1,0 +1,57 @@
+Acme Paint
+
+As of Now:
+* B2B
+* support Mid 2 Large Customers
+* Major Paint Supplier with dominant market share making them hard to acquire new customers in the construction industry.
+* 
+
+Business Problem:
+They maxed out in the Construction Industry, hence, inorder to expand their business wanted to explore different segments/markets. They want to sell 
+within the wholesale market to reach out to retail customers.
+
+Business Goal:
+We should make it profitable, without a capital investments?
+
+How?
+* Go-to-market strategy has many components such as onboarding retail (Sams, Costco), etc
+* Extend supply chain and develop brand awareness
+
+Scope:
+* To develop a multi-tenant(sam, costco) software application to cater different consumers 
+
+Role/actors:
+* Customers (Public)
+* Business (Retailers - Sam, Costco)
+* Vendor Support
+* Acme Paint
+
+Context Diagram [PaintPro]:
+* Customer > (Sam) [Paintpro] > 
+* User > Login (SSO Identity Provider in AWS Cognito)
+* User > Retail Partner > Acme
+
+
+
+Content Management
+Analytics Management
+
+User Management
+* User Management
+
+Product Management
+*  Color Pallete
+
+Order Management
+* INvoice 
+* History
+* Orders
+
+Vendor Management
+* Retailers
+
+
+
+
+
+
